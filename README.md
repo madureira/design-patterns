@@ -11,7 +11,7 @@ Thanks for Erich Gamma, Richard Helm, Ralph Johnson and John Vlissides, known as
 
 [![Design Patterns: Elements of Reusable Object-Oriented Software](https://raw.githubusercontent.com/madureira/design-patterns/master/images/design_patterns_elements_of_object-oriented_software.jpg)](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612).
 
-I cannot forget to mention Robert Nystrom who wrote another great book:
+Can not forget to mention Robert Nystrom who wrote another great book:
 
 [![Design Patterns: Elements of Reusable Object-Oriented Software](https://raw.githubusercontent.com/madureira/design-patterns/master/images/game_programming_patterns.jpg)](https://www.amazon.com/Game-Programming-Patterns-Robert-Nystrom/dp/0990582906).
 
