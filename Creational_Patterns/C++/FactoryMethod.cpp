@@ -62,10 +62,8 @@ public:
 		{
 			return std::make_unique<ModelS>();
 		}
-		else
-		{
-			return nullptr;
-		}
+
+		return nullptr;
 	}
 };
 

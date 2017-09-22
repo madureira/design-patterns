@@ -13,7 +13,7 @@ class Circle : public Shape
 public:
 	void draw()
 	{
-		std::cout << "Circle " << ": draw" << std::endl;
+		std::cout << "Circle: draw" << std::endl;
 	}
 };
 
@@ -22,7 +22,7 @@ class Ellipse : public Shape
 public:
 	void draw()
 	{
-		std::cout << "Ellipse " << ": draw" << std::endl;
+		std::cout << "Ellipse: draw" << std::endl;
 	}
 };
 
@@ -31,7 +31,7 @@ class Square : public Shape
 public:
 	void draw()
 	{
-		std::cout << "Square " << ": draw" << std::endl;
+		std::cout << "Square: draw" << std::endl;
 	}
 };
 
@@ -40,7 +40,7 @@ class Rectangle : public Shape
 public:
 	void draw()
 	{
-		std::cout << "Rectangle " << ": draw" << std::endl;
+		std::cout << "Rectangle: draw" << std::endl;
 	}
 };
 
