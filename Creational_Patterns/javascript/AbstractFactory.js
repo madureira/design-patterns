@@ -2,9 +2,17 @@
 
 class Shape {
   constructor() {
+    if (this.constructor === Shape) {
+      throw new TypeError('Cannot construct Abstract instances directly');
+    }
+
+    if (this.draw === Shape.prototype.draw) {
+      throw new TypeError('Must override method "draw()"');
+    }
   }
 
   draw() {
+    throw new TypeError('Do not call abstract method "draw()" from child.');
   }
 }
 
@@ -50,12 +58,25 @@ class Rectangle extends Shape {
 
 class ShapeFactory {
   contructor() {
+    if (this.constructor === ShapeFactory) {
+      throw new TypeError('Cannot construct Abstract instances directly');
+    }
+
+    if (this.createCurvedInstance === ShapeFactory.prototype.createCurvedInstance) {
+      throw new TypeError('Must override method "createCurvedInstance()"');
+    }
+
+    if (this.createStraightInstance === ShapeFactory.prototype.createStraightInstance) {
+      throw new TypeError('Must define method "createStraightInstance()"');
+    }
   }
 
   createCurvedInstance() {
+    throw new TypeError('Do not call abstract method "createCurvedInstance()" from child.');
   }
 
   createStraightInstance() {
+    throw new TypeError('Do not call abstract method "createStraightInstance()" from child.');
   }
 }
 

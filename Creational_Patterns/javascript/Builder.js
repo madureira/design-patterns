@@ -64,6 +64,22 @@ class Computer {
 // Create an abstract 'Builder' class
 class ComputerBuilder {
   constructor() {
+    if (this.constructor === ComputerBuilder) {
+      throw new TypeError('Cannot construct Abstract instances directly');
+    }
+
+    if (this.buildProcessor === ComputerBuilder.prototype.buildProcessor) {
+      throw new TypeError('Must override method "buildProcessor()"');
+    }
+
+    if (this.buildMemoryRAM === ComputerBuilder.prototype.buildMemoryRAM) {
+      throw new TypeError('Must override method "buildMemoryRAM()"');
+    }
+
+    if (this.buildHardDrive === ComputerBuilder.prototype.buildHardDrive) {
+      throw new TypeError('Must override method "buildHardDrive()"');
+    }
+
     this.computer = {};
   }
 
@@ -72,12 +88,15 @@ class ComputerBuilder {
   }
 
   buildProcessor() {
+    throw new TypeError('Do not call abstract method "buildProcessor()" from child.');
   }
 
   buildMemoryRAM() {
+    throw new TypeError('Do not call abstract method "buildMemoryRAM()" from child.');
   }
 
   buildHardDrive() {
+    throw new TypeError('Do not call abstract method "buildHardDrive()" from child.');
   }
 }
 
