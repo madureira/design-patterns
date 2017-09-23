@@ -67,10 +67,10 @@ class Computer {
 
 	public void show() {
 		System.out.println("\n--------------------------------");
-		System.out.println("Description: " + description);
-		System.out.println("Processor model: " + processor.getModel());
-		System.out.println("Memory RAM capacity: " + memoryRAM.getCapacity());
-		System.out.println("Hard Drive space: " + hardDrive.getSpace());
+		System.out.println("Description: " + this.description);
+		System.out.println("Processor model: " + this.processor.getModel());
+		System.out.println("Memory RAM capacity: " + this.memoryRAM.getCapacity());
+		System.out.println("Hard Drive space: " + this.hardDrive.getSpace());
 	}
 
 }
