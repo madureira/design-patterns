@@ -4,7 +4,11 @@ This repository contains examples of some common problems of software developmen
 
 [![GitHub version](https://badge.fury.io/gh/madureira%2Fdesign-patterns.svg)](https://badge.fury.io/gh/madureira%2Fdesign-patterns)
 
-The examples are available in 4 different programming languages (**C++**, **Java**, **PHP** and **javascript**).
+The examples are available in **4** different programming languages:
+* **C++**
+* **Java**
+* **PHP**
+* **javascript** (ES6).
 
 I hope that after view some of demonstrations, you be abble to identify and to apply that patterns in your projects.
 
@@ -19,7 +23,7 @@ Can not forget to mention Robert Nystrom who wrote another great book:
 I strongly recommend you read some of this books, to get a more deep view with understandable examples and clear explanations.
 
 
-# TODO
+## TODO
 * **Implement:** ~~Creational Patterns~~
 * **Implement:** Structural Patterns
 * **Implement:** Behavioral Patterns
