@@ -10,7 +10,7 @@ The examples are available in **4** different programming languages:
 * **PHP**
 * **javascript** (ES6).
 
-I hope that after view some of demonstrations, you be abble to identify and to apply that patterns in your projects.
+I hope that after view some of demonstrations, you be able to identify and to apply that patterns in your projects.
 
 Thanks for Erich Gamma, Richard Helm, Ralph Johnson and John Vlissides, known as Gang of Four (GoF) for the classic and amazing book:
 
