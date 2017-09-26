@@ -30,6 +30,11 @@ public:
 	{
 	}
 
+	~WindowDecorator()
+	{
+		delete m_WindowToBeDecorated;
+	}
+
 	void draw()
 	{
 		m_WindowToBeDecorated->draw(); // Delegation
