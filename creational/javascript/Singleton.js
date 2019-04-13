@@ -9,19 +9,19 @@ class Logger {
   }
 
   info(message) {
-    console.log(message);
+    console.log('INFO: ' + message);
   }
 
   error(message) {
-    console.error(message);
+    console.error('ERROR: ' + message);
   }
 }
 
 const loggerOne = new Logger();
 const loggerTwo = new Logger();
 
-loggerOne.info('Success message');
-loggerTwo.error('Failure message');
+loggerOne.info('some info message');
+loggerTwo.error('some error message');
 
 // Proves that both instances are the same!
-loggerOne.info(loggerOne === loggerTwo);
+console.log(loggerOne === loggerTwo); // true
