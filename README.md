@@ -1,8 +1,11 @@
 # Design Patterns
 
-This repository contains examples of some common problems of software development and how to solve them using Design Patterns.
+[![C++](https://img.shields.io/badge/C++-11-blue.svg)](https://isocpp.org/wiki/faq/cpp11)
+[![Java](https://img.shields.io/badge/Java-8-red.svg)](https://www.oracle.com/java/)
+[![Node](https://img.shields.io/badge/Nodejs-11-yellow.svg)](https://nodejs.org/en/)
+[![PHP](https://img.shields.io/badge/PHP-7-purple.svg)](https://www.php.net/)
 
-[![GitHub version](https://badge.fury.io/gh/madureira%2Fdesign-patterns.svg)](https://badge.fury.io/gh/madureira%2Fdesign-patterns)
+This repository contains examples of some common problems of software development and how to solve them using Design Patterns.
 
 The examples are available in **4** different programming languages:
 - **C++**
