@@ -43,7 +43,7 @@ I strongly recommend you read some of this books, to get a more deep view with u
 | Bridge                     | [C++](/structural/C++/Bridge.cpp)   | Java | javascript | PHP |
 | Composite                  | [C++](/structural/C++/Composite.cpp)| Java | javascript | PHP |
 | Decorator                  | [C++](/structural/C++/Decorator.cpp)| Java | javascript | PHP |
-| Facade                     | C++                                 | Java | javascript | PHP |
+| Facade                     | [C++](/structural/C++/Facade.cpp)   | Java | javascript | PHP |
 | Flyweight                  | C++                                 | Java | javascript | PHP |
 | Proxy                      | C++                                 | Java | javascript | PHP |
 
