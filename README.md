@@ -39,13 +39,13 @@ I strongly recommend you read some of this books, to get a more deep view with u
 
 | [Structural](/structural/) |               |               |               |               |
 | -------------------------- | ------------- | ------------- | ------------- | ------------- |
-| Adapter                    | [C++](/structural/C++/Adapter.cpp)  | Java | javascript | PHP |
-| Bridge                     | [C++](/structural/C++/Bridge.cpp)   | Java | javascript | PHP |
-| Composite                  | [C++](/structural/C++/Composite.cpp)| Java | javascript | PHP |
-| Decorator                  | [C++](/structural/C++/Decorator.cpp)| Java | javascript | PHP |
-| Facade                     | [C++](/structural/C++/Facade.cpp)   | Java | javascript | PHP |
-| Flyweight                  | C++                                 | Java | javascript | PHP |
-| Proxy                      | C++                                 | Java | javascript | PHP |
+| Adapter                    | [C++](/structural/C++/Adapter.cpp)   | Java | javascript | PHP |
+| Bridge                     | [C++](/structural/C++/Bridge.cpp)    | Java | javascript | PHP |
+| Composite                  | [C++](/structural/C++/Composite.cpp) | Java | javascript | PHP |
+| Decorator                  | [C++](/structural/C++/Decorator.cpp) | Java | javascript | PHP |
+| Facade                     | [C++](/structural/C++/Facade.cpp)    | Java | javascript | PHP |
+| Flyweight                  | [C++](/structural/C++/Flyweight.cpp) | Java | javascript | PHP |
+| Proxy                      | C++                                  | Java | javascript | PHP |
 
 ---
 
