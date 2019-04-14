@@ -17,11 +17,11 @@ I hope that after view some of demonstrations, you be able to identify and to ap
 
 Thanks for Erich Gamma, Richard Helm, Ralph Johnson and John Vlissides, known as Gang of Four (GoF) for the classic and amazing book:
 
-[![Design Patterns: Elements of Reusable Object-Oriented Software](https://raw.githubusercontent.com/madureira/design-patterns/master/images/design_patterns_elements_of_object-oriented_software.jpg)](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612).
+[![Design Patterns: Elements of Reusable Object-Oriented Software](/.github/design_patterns_elements_of_object-oriented_software.jpg)](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612).
 
 Can not forget to mention Robert Nystrom who wrote another great book:
 
-[![Design Patterns: Elements of Reusable Object-Oriented Software](https://raw.githubusercontent.com/madureira/design-patterns/master/images/game_programming_patterns.jpg)](https://www.amazon.com/Game-Programming-Patterns-Robert-Nystrom/dp/0990582906).
+[![Design Patterns: Elements of Reusable Object-Oriented Software](/.github/game_programming_patterns.jpg)](https://www.amazon.com/Game-Programming-Patterns-Robert-Nystrom/dp/0990582906).
 
 I strongly recommend you read some of this books, to get a more deep view with understandable examples and clear explanations.
 
