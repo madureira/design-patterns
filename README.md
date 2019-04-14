@@ -36,6 +36,32 @@ I strongly recommend you read some of this books, to get a more deep view with u
 | Singleton                  | [C++](/creational/C++/Singleton.cpp)  | [Java](/creational/Java/Singleton.java) | [javascript](/creational/javascript/Singleton.js) | [PHP](/creational/PHP/Singleton.php) |
 
 
+| [Structural](/structural/) |               |               |               |               |
+| -------------------------- | ------------- | ------------- | ------------- | ------------- |
+| Adapter                    | [C++](/structural/C++/Adapter.cpp)  | Java | javascript | PHP |
+| Bridge                     | [C++](/structural/C++/Bridge.cpp)   | Java | javascript | PHP |
+| Composite                  | [C++](/structural/C++/Composite.cpp)| Java | javascript | PHP |
+| Decorator                  | [C++](/structural/C++/Decorator.cpp)| Java | javascript | PHP |
+| Facade                     | C++                                 | Java | javascript | PHP |
+| Flyweight                  | C++                                 | Java | javascript | PHP |
+| Proxy                      | C++                                 | Java | javascript | PHP |
+
+
+| [Behavioral](/behavioral/) |               |               |               |               |
+| -------------------------- | ------------- | ------------- | ------------- | ------------- |
+| Chain of Responsibility    | C++           | Java          | javascript    | PHP           |
+| Command                    | C++           | Java          | javascript    | PHP           |
+| Interpreter                | C++           | Java          | javascript    | PHP           |
+| Iterator                   | C++           | Java          | javascript    | PHP           |
+| Mediator                   | C++           | Java          | javascript    | PHP           |
+| Memento                    | C++           | Java          | javascript    | PHP           |
+| Observer                   | C++           | Java          | javascript    | PHP           |
+| State                      | C++           | Java          | javascript    | PHP           |
+| Strategy                   | C++           | Java          | javascript    | PHP           |
+| Template Method            | C++           | Java          | javascript    | PHP           |
+| Visitor                    | C++           | Java          | javascript    | PHP           |
+
+
 ## TODO
 * **Implement:** ~~Creational Patterns~~
 * **Implement:** Structural Patterns
