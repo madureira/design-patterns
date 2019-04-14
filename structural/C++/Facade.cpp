@@ -27,7 +27,8 @@ public:
 	}
 };
 
-class SHA256Encryptor {
+class SHA256Encryptor
+{
 public:
 	SHA256Encryptor() {
 	}
