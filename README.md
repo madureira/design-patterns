@@ -25,7 +25,7 @@ Can not forget to mention Robert Nystrom who wrote another great book:
 
 I strongly recommend you read some of this books, to get a more deep view with understandable examples and clear explanations.
 
-## Design Pattern Catalog
+## Catalog
 
 | [Creational](/creational/) |               |               |               |               |
 | -------------------------- | ------------- | ------------- | ------------- | ------------- |
@@ -35,6 +35,7 @@ I strongly recommend you read some of this books, to get a more deep view with u
 | Prototype                  | [C++](/creational/C++/Prototype.cpp)  | [Java](/creational/Java/Prototype.java) | [javascript](/creational/javascript/Prototype.js) | [PHP](/creational/PHP/Prototype.php) |
 | Singleton                  | [C++](/creational/C++/Singleton.cpp)  | [Java](/creational/Java/Singleton.java) | [javascript](/creational/javascript/Singleton.js) | [PHP](/creational/PHP/Singleton.php) |
 
+---
 
 | [Structural](/structural/) |               |               |               |               |
 | -------------------------- | ------------- | ------------- | ------------- | ------------- |
@@ -46,6 +47,7 @@ I strongly recommend you read some of this books, to get a more deep view with u
 | Flyweight                  | C++                                 | Java | javascript | PHP |
 | Proxy                      | C++                                 | Java | javascript | PHP |
 
+---
 
 | [Behavioral](/behavioral/) |               |               |               |               |
 | -------------------------- | ------------- | ------------- | ------------- | ------------- |
@@ -61,6 +63,7 @@ I strongly recommend you read some of this books, to get a more deep view with u
 | Template Method            | C++           | Java          | javascript    | PHP           |
 | Visitor                    | C++           | Java          | javascript    | PHP           |
 
+---
 
 ## TODO
 * **Implement:** ~~Creational Patterns~~
