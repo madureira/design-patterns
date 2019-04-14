@@ -45,7 +45,7 @@ I strongly recommend you read some of this books, to get a more deep view with u
 | Decorator                  | [C++](/structural/C++/Decorator.cpp) | Java | javascript | PHP |
 | Facade                     | [C++](/structural/C++/Facade.cpp)    | Java | javascript | PHP |
 | Flyweight                  | [C++](/structural/C++/Flyweight.cpp) | Java | javascript | PHP |
-| Proxy                      | C++                                  | Java | javascript | PHP |
+| Proxy                      | [C++](/structural/C++/Proxy.cpp)     | Java | javascript | PHP |
 
 ---
 
