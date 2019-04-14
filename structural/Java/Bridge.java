@@ -1,5 +1,3 @@
-
-
 interface Fuel {
 
 	public String getType();
