@@ -2,7 +2,7 @@ class MD5Encryptor {
 
   encrypt(text) {
     // encrypt text using MD5 algorithm and return the encripted text.
-    return "XYZ123";
+    return 'XYZ123';
   }
 
 }
@@ -11,7 +11,7 @@ class SHAEncryptor {
 
   encrypt(text) {
     // encrypt text using SHA algorithm and return the encripted text.
-    return "ABC456";
+    return 'ABC456';
   }
 
 }
@@ -20,7 +20,7 @@ class SHA256Encryptor {
 
   encrypt(text) {
     // encrypt text using SHA256 algorithm and return the encripted text.
-    return "WOKDTG45KY012";
+    return 'WOKDTG45KY012';
   }
 
 }
