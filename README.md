@@ -42,7 +42,7 @@ I strongly recommend you read some of this books, to get a more deep view with u
 | Adapter                    | [C++](/structural/C++/Adapter.cpp)   | [Java](/structural/Java/Adapter.java) | [javascript](/structural/javascript/Adapter.js) | PHP |
 | Bridge                     | [C++](/structural/C++/Bridge.cpp)    | [Java](/structural/Java/Bridge.java) | [javascript](/structural/javascript/Bridge.js) | PHP |
 | Composite                  | [C++](/structural/C++/Composite.cpp) | [Java](/structural/Java/Composite.java) | [javascript](/structural/javascript/Composite.js) | PHP |
-| Decorator                  | [C++](/structural/C++/Decorator.cpp) | [Java](/structural/Java/Decorator.java) | javascript | PHP |
+| Decorator                  | [C++](/structural/C++/Decorator.cpp) | [Java](/structural/Java/Decorator.java) | [javascript](/structural/javascript/Decorator.js) | PHP |
 | Facade                     | [C++](/structural/C++/Facade.cpp)    | [Java](/structural/Java/Facade.java) | javascript | PHP |
 | Flyweight                  | [C++](/structural/C++/Flyweight.cpp) | [Java](/structural/Java/Flyweight.java) | javascript | PHP |
 | Proxy                      | [C++](/structural/C++/Proxy.cpp)     | [Java](/structural/Java/Proxy.java) | javascript | PHP |
