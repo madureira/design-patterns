@@ -1,7 +1,7 @@
 const RCAPlug = {
-  YELLOW: "YELLOW",
-  RED: "RED",
-  WHITE: "WHITE"
+  YELLOW: 'YELLOW',
+  RED: 'RED',
+  WHITE: 'WHITE'
 };
 
 // Legacy component
@@ -15,10 +15,10 @@ class RCAConnector {
 
   connectOnRCABoard() {
     if (this.video === RCAPlug.YELLOW && this.rightAudio === RCAPlug.RED && this.leftAudio === RCAPlug.WHITE) {
-      console.log("RCAConnector connected correctly!");
+      console.log('RCAConnector connected correctly!');
       this.isRCAConnected = true;
     } else {
-      console.log("ERROR: cable connected in wrong order!");
+      console.log('ERROR: cable connected in wrong order!');
       this.isRCAConnected = false;
     }
   }
@@ -34,7 +34,7 @@ class ConnectorAdapter extends RCAConnector {
 
   connect() {
     this.connectOnRCABoard();
-    console.log("HDMI connected to the board through the RCA adapter!");
+    console.log('HDMI connected to the board through the RCA adapter!');
   }
 
 }
