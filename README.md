@@ -51,7 +51,7 @@ I strongly recommend you read some of this books, to get a more deep view with u
 
 | [Behavioral](/behavioral/) |               |               |               |               |
 | -------------------------- | ------------- | ------------- | ------------- | ------------- |
-| Chain of Responsibility    | C++           | Java          | javascript    | PHP           |
+| Chain of Responsibility    | [C++](/behavioral/C++/ChainOfResponsibility.cpp) | [Java](/behavioral/C++/ChainOfResponsibility.java) | [javascript](/behavioral/javascript/ChainOfResponsibility.js) | [PHP](/behavioral/PHP/ChainOfResponsibility.php) |
 | Command                    | C++           | Java          | javascript    | PHP           |
 | Interpreter                | C++           | Java          | javascript    | PHP           |
 | Iterator                   | C++           | Java          | javascript    | PHP           |
