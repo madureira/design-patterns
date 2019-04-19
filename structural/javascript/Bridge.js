@@ -21,7 +21,7 @@ class Diesel extends Fuel {
 
   // Implements abstract parent method
   type() {
-    return "Diesel";
+    return 'Diesel';
   }
 
 }
@@ -30,7 +30,7 @@ class Gasoline extends Fuel {
 
   // Implements abstract parent method
   type() {
-    return "Gasoline";
+    return 'Gasoline';
   }
 
 }
@@ -63,8 +63,8 @@ class Jeep extends Car {
 
   // Implements abstract parent method
   showInfo() {
-    console.log("\nModel: Jeep");
-    console.log("Fuel: " + this.fuel.type());
+    console.log('\nModel: Jeep');
+    console.log('Fuel: ' + this.fuel.type());
   }
 
 }
@@ -77,13 +77,13 @@ class Subaru extends Car {
   }
 
   showInfo() {
-    console.log("\nModel: Subaru");
-    console.log("Fuel: " + this.fuel.type());
+    console.log('\nModel: Subaru');
+    console.log('Fuel: ' + this.fuel.type());
   }
 
 }
 
-console.log(":: Bridge ::\n");
+console.log(':: Bridge ::\n');
 
 const diesel = new Diesel();
 const gasoline = new Gasoline();
