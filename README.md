@@ -39,7 +39,7 @@ I strongly recommend you read some of this books, to get a more deep view with u
 
 | [Structural](/structural/) |               |               |               |               |
 | -------------------------- | ------------- | ------------- | ------------- | ------------- |
-| Adapter                    | [C++](/structural/C++/Adapter.cpp)   | [Java](/structural/Java/Adapter.java) | [javascript](/structural/javascript/Adapter.js) | PHP |
+| Adapter                    | [C++](/structural/C++/Adapter.cpp)   | [Java](/structural/Java/Adapter.java) | [javascript](/structural/javascript/Adapter.js) | [PHP](/structural/PHP/Adapter.php) |
 | Bridge                     | [C++](/structural/C++/Bridge.cpp)    | [Java](/structural/Java/Bridge.java) | [javascript](/structural/javascript/Bridge.js) | PHP |
 | Composite                  | [C++](/structural/C++/Composite.cpp) | [Java](/structural/Java/Composite.java) | [javascript](/structural/javascript/Composite.js) | PHP |
 | Decorator                  | [C++](/structural/C++/Decorator.cpp) | [Java](/structural/Java/Decorator.java) | [javascript](/structural/javascript/Decorator.js) | PHP |
