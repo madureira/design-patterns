@@ -1,5 +1,3 @@
-package com.faire.cli;
-
 enum Planet {
 	MERCURY,
 	VENUS,
