@@ -27,32 +27,32 @@ I strongly recommend you read some of this books, to get a more deep view with u
 
 ## Catalog
 
-| [Creational](/creational/) |               |               |               |               |
-| -------------------------- | ------------- | ------------- | ------------- | ------------- |
-| Abstract Factory           | [C++](/creational/C++/AbstractFactory.cpp)  | [Java](/creational/Java/AbstractFactory.java) | [javascript](/creational/javascript/AbstractFactory.js) | [PHP](/creational/PHP/AbstractFactory.php) |
-| Builder                    | [C++](/creational/C++/Builder.cpp)  | [Java](/creational/Java/Builder.java) | [javascript](/creational/javascript/Builder.js) | [PHP](/creational/PHP/Builder.php) |
-| Factory Method             | [C++](/creational/C++/FactoryMethod.cpp)  | [Java](/creational/Java/FactoryMethod.java) | [javascript](/creational/javascript/FactoryMethod.js) | [PHP](/creational/PHP/FactoryMethod.php) |
-| Prototype                  | [C++](/creational/C++/Prototype.cpp)  | [Java](/creational/Java/Prototype.java) | [javascript](/creational/javascript/Prototype.js) | [PHP](/creational/PHP/Prototype.php) |
-| Singleton                  | [C++](/creational/C++/Singleton.cpp)  | [Java](/creational/Java/Singleton.java) | [javascript](/creational/javascript/Singleton.js) | [PHP](/creational/PHP/Singleton.php) |
+| [Creational](/creational/) |                                            |                                               |                                                         |                                            |
+| -------------------------- | ------------------------------------------ | --------------------------------------------- | ------------------------------------------------------- | ------------------------------------------ |
+| Abstract Factory           | [C++](/creational/C++/AbstractFactory.cpp) | [Java](/creational/Java/AbstractFactory.java) | [javascript](/creational/javascript/AbstractFactory.js) | [PHP](/creational/PHP/AbstractFactory.php) |
+| Builder                    | [C++](/creational/C++/Builder.cpp)         | [Java](/creational/Java/Builder.java)         | [javascript](/creational/javascript/Builder.js)         | [PHP](/creational/PHP/Builder.php)         |
+| Factory Method             | [C++](/creational/C++/FactoryMethod.cpp)   | [Java](/creational/Java/FactoryMethod.java)   | [javascript](/creational/javascript/FactoryMethod.js)   | [PHP](/creational/PHP/FactoryMethod.php)   |
+| Prototype                  | [C++](/creational/C++/Prototype.cpp)       | [Java](/creational/Java/Prototype.java)       | [javascript](/creational/javascript/Prototype.js)       | [PHP](/creational/PHP/Prototype.php)       |
+| Singleton                  | [C++](/creational/C++/Singleton.cpp)       | [Java](/creational/Java/Singleton.java)       | [javascript](/creational/javascript/Singleton.js)       | [PHP](/creational/PHP/Singleton.php)       |
 
 ---
 
-| [Structural](/structural/) |               |               |               |               |
-| -------------------------- | ------------- | ------------- | ------------- | ------------- |
-| Adapter                    | [C++](/structural/C++/Adapter.cpp)   | [Java](/structural/Java/Adapter.java) | [javascript](/structural/javascript/Adapter.js) | [PHP](/structural/PHP/Adapter.php) |
-| Bridge                     | [C++](/structural/C++/Bridge.cpp)    | [Java](/structural/Java/Bridge.java) | [javascript](/structural/javascript/Bridge.js) | [PHP](/structural/PHP/Bridge.php) |
+| [Structural](/structural/) |                                      |                                         |                                                   |                                      |
+| -------------------------- | ------------------------------------ | --------------------------------------- | ------------------------------------------------- | ------------------------------------ |
+| Adapter                    | [C++](/structural/C++/Adapter.cpp)   | [Java](/structural/Java/Adapter.java)   | [javascript](/structural/javascript/Adapter.js)   | [PHP](/structural/PHP/Adapter.php)   |
+| Bridge                     | [C++](/structural/C++/Bridge.cpp)    | [Java](/structural/Java/Bridge.java)    | [javascript](/structural/javascript/Bridge.js)    | [PHP](/structural/PHP/Bridge.php)    |
 | Composite                  | [C++](/structural/C++/Composite.cpp) | [Java](/structural/Java/Composite.java) | [javascript](/structural/javascript/Composite.js) | [PHP](/structural/PHP/Composite.php) |
 | Decorator                  | [C++](/structural/C++/Decorator.cpp) | [Java](/structural/Java/Decorator.java) | [javascript](/structural/javascript/Decorator.js) | [PHP](/structural/PHP/Decorator.php) |
-| Facade                     | [C++](/structural/C++/Facade.cpp)    | [Java](/structural/Java/Facade.java) | [javascript](/structural/javascript/Facade.js) | [PHP](/structural/PHP/Facade.php) |
+| Facade                     | [C++](/structural/C++/Facade.cpp)    | [Java](/structural/Java/Facade.java)    | [javascript](/structural/javascript/Facade.js)    | [PHP](/structural/PHP/Facade.php)    |
 | Flyweight                  | [C++](/structural/C++/Flyweight.cpp) | [Java](/structural/Java/Flyweight.java) | [javascript](/structural/javascript/Flyweight.js) | [PHP](/structural/PHP/Flyweight.php) |
-| Proxy                      | [C++](/structural/C++/Proxy.cpp)     | [Java](/structural/Java/Proxy.java) | [javascript](/structural/javascript/Proxy.js) | [PHP](/structural/PHP/Proxy.php) |
+| Proxy                      | [C++](/structural/C++/Proxy.cpp)     | [Java](/structural/Java/Proxy.java)     | [javascript](/structural/javascript/Proxy.js)     | [PHP](/structural/PHP/Proxy.php)     |
 
 ---
 
-| [Behavioral](/behavioral/) |               |               |               |               |
-| -------------------------- | ------------- | ------------- | ------------- | ------------- |
+| [Behavioral](/behavioral/) |                                                  |                                                     |                                                               |                                                  |
+| -------------------------- | ------------------------------------------------ | --------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------ |
 | Chain of Responsibility    | [C++](/behavioral/C++/ChainOfResponsibility.cpp) | [Java](/behavioral/Java/ChainOfResponsibility.java) | [javascript](/behavioral/javascript/ChainOfResponsibility.js) | [PHP](/behavioral/PHP/ChainOfResponsibility.php) |
-| Command                    | C++           | Java          | javascript    | PHP           |
+| Command                    | [C++](/behavioral/C++/Command.cpp)               | Java          | javascript    | PHP           |
 | Interpreter                | C++           | Java          | javascript    | PHP           |
 | Iterator                   | C++           | Java          | javascript    | PHP           |
 | Mediator                   | C++           | Java          | javascript    | PHP           |
