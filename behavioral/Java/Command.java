@@ -54,9 +54,9 @@ class InputHandler {
             return keyJ;
         } else if ("f".equals(keyValue)) {
             return keyF;
-        } else {
-            System.out.println("You need to press 'j' or 'f'.");
         }
+
+        System.out.println("You need to press 'j' or 'f'.");
 
         return null;
     }

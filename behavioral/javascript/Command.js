@@ -72,9 +72,9 @@ class InputHandler {
       return this.keyJ;
     } else if (keyValue === 'f') {
       return this.keyF;
-    } else {
-      console.log('You need to press "j" or "f".');
     }
+
+    console.log('You need to press "j" or "f".');
 
     return null;
   }

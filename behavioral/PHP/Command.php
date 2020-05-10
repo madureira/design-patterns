@@ -54,9 +54,9 @@ class InputHandler {
             return $this->keyJ;
         } else if ($keyValue == 'f') {
             return $this->keyF;
-        } else {
-            echo "You need to press 'j' or 'f'.\n";
         }
+
+        echo "You need to press 'j' or 'f'.\n";
 
         return null;
     }

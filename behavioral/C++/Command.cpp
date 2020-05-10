@@ -73,10 +73,8 @@ public:
         {
             return m_KeyF;
         }
-        else
-        {
-            std::cout << "You need to press 'j' or 'f'." << std::endl;
-        }
+
+        std::cout << "You need to press 'j' or 'f'." << std::endl;
 
         return nullptr;
     }
