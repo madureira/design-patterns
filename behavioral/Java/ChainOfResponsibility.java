@@ -74,7 +74,7 @@ class EarthHandler extends PlanetHandler {
 
 public class Main {
 
-	public static void mainX(String[] args) {
+	public static void main(String[] args) {
 		System.out.println(":: Chain of Responsability ::\n");
 
 		PlanetHandler chain = setUpChain();

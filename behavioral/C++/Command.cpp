@@ -96,7 +96,10 @@ int main()
 
     Command* command = inputHandler.HandleInput(pressedKey);
 
-    command->Execute(player);
+    if (command != nullptr)
+    {
+        command->Execute(player);
+    }
 
     std::cout << "Game Over" << std::endl;
 
